@@ -11,3 +11,11 @@ Debug/
 */Debug/
 */Release/
 .metadata/
+# Keil MDK build intermediates
+*.crf
+*.map
+*.htm
+*.lnp
+*.sct
+*.dep
+*.build_log.htm
